@@ -43,8 +43,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LearningBotsTeam")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/LearningBotssupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iwantandroid")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/iwantandroid")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -81,8 +81,8 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/10xn4h.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/10xn4h.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/z1twbf.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/zdhwlj.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/10xn4h.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/10xn4h.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/10xn4h.jpg"
